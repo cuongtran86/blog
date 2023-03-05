@@ -12,3 +12,5 @@ After that I tried to implement NodeJS code for users registration => the proble
 I can't execute the SQL with the connection. (The problem is about my code, it's not right)
 I'm stuck at this stage and I'm still finding the solution.
 Hope to find a way to resolve this problem ASAP.
+My Back-End repo: https://github.com/cuongtran86/blog-back-end.git
+Good to hear your advice about this. 
